@@ -4,13 +4,13 @@
 👥 Credits
 Developed with ❤️ by Tech Tutors
 
--Anthony Gudu (@agudu50)
--Frank Opuni (@asanteopunifrimpong)
--Kelvin Agyare (@KelvCodes)
--Nana Yaw (@asante-y)
--Elijah Ametefe (@Elijahamet)
--Justice Tieku (@justice-tieku)
--Frank Bless (@frank-bless)
+- Anthony Gudu (@agudu50)
+- Frank Opuni (@asanteopunifrimpong)
+- Kelvin Agyare (@KelvCodes)
+- Nana Yaw (@asante-y)
+- Elijah Ametefe (@Elijahamet)
+- Justice Tieku (@justice-tieku)
+- Frank Bless (@frank-bless)
 
 # What's PodcastAI ?
 
