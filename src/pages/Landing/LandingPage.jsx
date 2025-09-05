@@ -30,17 +30,7 @@ const LandingPage = () => {
 
   return (
     <div className="landing-container">
-      <div className="landing-background-watermark">
-        <span>P</span>
-        <span>O</span>
-        <span>D</span>
-        <span>C</span>
-        <span>A</span>
-        <span>S</span>
-        <span>T</span>
-        <span>A</span>
-        <span>I</span>
-      </div>
+      
       
       {/* Floating particles */}
       <div className="landing-particles">
