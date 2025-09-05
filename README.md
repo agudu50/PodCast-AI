@@ -96,6 +96,8 @@ Follow these steps to run the project locally on **Windows, Mac, or Linux**:
     npm run dev
 
 
+## 🚀 Live Demo  
+[https://podcastai-main.vercel.app/](https://podcastai-main.vercel.app/)
 
     
 
